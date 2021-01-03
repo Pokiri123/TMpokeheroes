@@ -724,6 +724,7 @@ function pokemonRegexTest(a) {
         "Clauncher",
         "Clawitzer",
         "Helioptile",
+        "Galar",
         "Heliolisk",
         "Tyrunt",
         "Tyrantrum",
