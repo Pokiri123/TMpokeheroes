@@ -55,6 +55,7 @@ function pokemonRegexTest(a) {
         "Ekans",
         "Arbok",
         "Pikachu",
+        "Dr Crazee",
         "Raichu",
         "Sandshrew",
         "Sandslash",
